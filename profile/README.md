@@ -6,7 +6,6 @@ Welcome to the HNCompanion organization! 🚀
 
 ## Projects
 - [browser-extension](https://github.com/hncompanion/browser-extension): Browser extension for Hacker News
-- [web-site](https://github.com/hncompanion/web-site): Code for [hncompanion.com](https://hncompanion.com)
 
 ## Get Involved
 - Check out our [website](https://hncompanion.com)
